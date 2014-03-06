@@ -17,5 +17,7 @@ public class GIT {
         
         System.out.print("   ");
         System.out.print("   ");
+        System.out.print("   ");
+        System.out.print("   ");
     }
 }
