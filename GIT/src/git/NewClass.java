@@ -6,7 +6,7 @@ package git;
 
 /**
  *
- * @author Łukasz
+ * @author Łukaszddd
  */
 public class NewClass {
     
