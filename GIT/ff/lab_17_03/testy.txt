@@ -1,0 +1,35 @@
+Logowanie:
+1.Wprowadzenie has³a i nazwy u¿ytkownika.
+Poprawny: uda³o siê wprowadziæ
+2.Logowanie
+Poprawny: potwierdzenie/odrzucenie u¿ytkownika.
+
+Przegl¹danie bazy danych:
+1.Wyœwietlenie listy produktów
+Poprawny: lista produktów zosta³a wyœwietlona.
+
+Wyszukiwanie w bazie danych:
+1.Wprowadzenie warunków wyszukiwania
+Poprawny: uda³o siê wprowadziæ
+2.Wyœwietlenie wyników wyszukiwania
+Poprawny: wyœwietlono wyniki spe³niaj¹ce warunki okreslone w pkt. 1
+
+Modyfikacja bazy danych:
+1.Modyfikacja/wprowadzenie poprawnego rekordu
+Poprawny: wyœwietlenie potwierdzenia wprowadzenia modyfikacji, wyœwietlenie zmodyfikowanej bazy
+2.Modyfikacja/wprowadzenie niepoprawnego rekordu
+Poprawny: wyœwietlenie komunikatu o b³êdzie
+
+Modyfikacja listy spo¿ytych produktów:
+1.Wprowadzenie poprawnego wpisu
+Poprawny: wyœwietlenie potwierdzenia
+2.Wybranie opcji: szczegó³y produktu lub lista spo¿ytych produktów
+Poprawny: wyœwietlono wybrane okno
+
+Informacje dietetyczne:
+1.Wyœwietlenie podsumowania
+Poprawny: wyœwietlono podsumowanie zawierajace spo¿yte produkty
+2.Podsumowanie graficzne
+Poprawny: wyœwietlono wykres oparty o dane z poprzedniego punktu
+3.Wyœwietlenie proponowanych produktów
+Poprawny: wyœwietlono produkty zgodne z brakami w diecie
